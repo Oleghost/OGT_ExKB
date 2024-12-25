@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Укрупненно.md",
+                "file": "_Содержание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Укрупненно"
+              "title": "_Содержание"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Укрупненно.md",
+                "file": "_Содержание.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Укрупненно"
+              "title": "_Содержание"
             }
           }
         ],
@@ -179,10 +179,11 @@
   },
   "active": "542833ea6d4c38dd",
   "lastOpenFiles": [
+    "README.md",
     "Apdex.md",
-    "Укрупненно.md",
     "Автоматический режим блокировок.md",
     "Возможные проблеммы.md",
+    "_Содержание.md",
     "Добро пожаловать.md"
   ]
 }
