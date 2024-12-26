@@ -34,9 +34,51 @@
               "icon": "lucide-file",
               "title": "_Содержание"
             }
+          },
+          {
+            "id": "215419cfcaf787e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Содержание.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Содержание"
+            }
+          },
+          {
+            "id": "6137d194cac82ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apdex.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Apdex"
+            }
+          },
+          {
+            "id": "97bdfa542971c2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Тест.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_Тест"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -177,13 +219,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "542833ea6d4c38dd",
+  "active": "97bdfa542971c2a9",
   "lastOpenFiles": [
-    "README.md",
     "Apdex.md",
-    "Автоматический режим блокировок.md",
-    "Возможные проблеммы.md",
+    "_Тест.md",
     "_Содержание.md",
+    "Блокировки.md",
+    "Показатель здоровья системы.md",
+    "Показатели здоровья СУБД.md",
+    "Поиск виновного.md",
+    "Возможные проблеммы.md",
+    "Загруженность железа.md",
+    "README.md",
+    "Счетчики оборудования.md",
+    "Проблемы.md",
+    "Автоматический режим блокировок.md",
     "Добро пожаловать.md"
   ]
 }
